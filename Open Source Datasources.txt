@@ -1,0 +1,11 @@
+State Level Data Sources:
+
+https://www.benefits.gov/categories/Housing%20and%20Public%20Utilities
+https://www.bts.gov/product/state-transportation-statistics
+
+https://www.bea.gov/data/gdp/gdp-state
+https://www.bls.gov/eag/eag.us.htm
+https://fred.stlouisfed.org/tags/series?t=monthly%3Bstate
+https://apps.urban.org/features/state-economic-monitor/
+https://stats.stackexchange.com/questions/27237/what-are-the-most-useful-sources-of-economics-data
+https://krannert.purdue.edu/centers/pcee/economics-help/economic-data-sources.php
